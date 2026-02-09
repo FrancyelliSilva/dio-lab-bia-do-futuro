@@ -61,10 +61,10 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | ["Streamlit (Interface Visual)"] |
-| LLM | ["Ollama (local)"] |
-| Base de Conhecimento | [Json/CSV] |
-| Validação | [Checagem de alucinações] |
+| Interface | "Streamlit (Interface Visual)" |
+| LLM | "Ollama (local)" |
+| Base de Conhecimento | Json/CSV |
+| Validação | Checagem de alucinações |
 
 ---
 
