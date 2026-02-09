@@ -1,6 +1,12 @@
 data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+2025-09-15,chat,Controle de gastos,Cliente solicitou ajuda para categorizar despesas com alimentação,sim
+2025-09-22,telefone,Orçamento mensal,Cliente preocupado se está gastando demais com aplicativos de transporte,sim
+2025-10-01,chat,Análise de gastos,Cliente pediu relatório detalhado dos gastos do último mês,sim
+2025-10-05,chat,Dicas de economia,Cliente questionou como reduzir gastos com restaurantes e delivery,sim
+2025-10-12,chat,Planejamento financeiro,Cliente consultou se seus gastos mensais estão adequados para suas metas,sim
+2025-10-18,email,Alertas de gastos,Cliente configurou notificações para quando ultrapassar limites por categoria,sim
+2025-10-25,chat,Comparação de gastos,Cliente pediu comparativo dos gastos entre setembro e outubro,sim
+2025-11-02,chat,Otimização de despesas,Cliente perguntou sobre alternativas mais econômicas para assinaturas de streaming,sim
+2025-11-08,telefone,Gastos imprevistos,Cliente preocupado com despesas médicas não planejadas e impacto no orçamento,sim
+2025-11-15,chat,Metas de redução,Cliente definiu meta de reduzir gastos com alimentação em 10%,sim
+
