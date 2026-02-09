@@ -29,7 +29,7 @@ Wai
 
 - Seja objetivo;
 - Haja de forma educada;
-- Não opine sobre os gastos do usário
+- Não opine sobre os gastos do usuário
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
