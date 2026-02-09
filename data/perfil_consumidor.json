@@ -1,0 +1,60 @@
+{
+  "nome": "João Silva",
+  "idade": 32,
+  "profissao": "Analista de Sistemas",
+  "renda_mensal": 5000.00,
+  "perfil_investidor": "moderado",
+  "objetivo_principal": "Construir reserva de emergência",
+  "patrimonio_total": 15000.00,
+  "reserva_emergencia_atual": 10000.00,
+  "aceita_risco": false,
+  
+  "gastos_mensais_medios": {
+    "moradia": 180.00,
+    "alimentacao": 570.00,
+    "transporte": 295.00,
+    "saude": 188.00,
+    "lazer": 55.90,
+    "total_gastos": 1288.90
+  },
+  
+  "analise_comportamental": {
+    "taxa_poupanca": 74.22,
+    "percentual_renda_gasto": 25.78,
+    "categoria_maior_gasto": "alimentacao",
+    "frequencia_gastos_lazer": "baixa",
+    "usa_apps_mobilidade": true,
+    "tem_assinaturas_streaming": true,
+    "disciplina_financeira": "alta"
+  },
+  
+  "capacidade_investimento_mensal": 3711.10,
+  
+  "observacoes_perfil": [
+    "Gasta apenas 25,78% da renda mensal",
+    "Alta capacidade de poupança (74,22%)",
+    "Gastos controlados em todas as categorias",
+    "Alimentação é a maior despesa (570,00/mês)",
+    "Gastos com lazer muito baixos - possível oportunidade de melhorar qualidade de vida",
+    "Perfil conservador nos gastos sugere baixa tolerância a risco"
+  ],
+  
+  "metas": [
+    {
+      "meta": "Completar reserva de emergência",
+      "valor_necessario": 15000.00,
+      "valor_atual": 10000.00,
+      "valor_faltante": 5000.00,
+      "prazo": "2026-06",
+      "viabilidade": "alta",
+      "meses_necessarios": 2
+    },
+    {
+      "meta": "Entrada do apartamento",
+      "valor_necessario": 50000.00,
+      "prazo": "2027-12",
+      "viabilidade": "alta",
+      "meses_necessarios": 14
+    }
+  ]
+}
