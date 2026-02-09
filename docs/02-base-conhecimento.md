@@ -6,9 +6,8 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 | Arquivo | Formato | Utilização no Agente |
 |---------|---------|---------------------|
-| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores, e resumir última relaçãp se houver relação com a última |
-| `perfil_investidor.json` | JSON | Personalizar recomendações |
-| `produtos_financeiros.json` | JSON | Sugerir produtos adequados ao perfil |
+| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores, e resumir a última interação se houver relação com a nova interação |
+| `perfil_consumidor.json` | JSON | Analisar e contribuir com melhoria no desenvolvimento financeiro do usuário |
 | `transacoes.csv` | CSV | Analisar padrão de gastos do cliente |
 
 > [!TIP]
@@ -20,7 +19,8 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 > Você modificou ou expandiu os dados mockados? Descreva aqui.
 
-[Sua descrição aqui]
+- O nome do arquivo '/data/perfil_investidor.json' mudaram para '/data/perfil_consumidor', e os seus dados também foram alterados para serem utilizados no desenvolvimento do agente com a função de alertar sobre consumos excessivos.
+- Os dados do arquivo '/data/historico_atendimento' foram alterados para acompanhar o treinamento do agente com a função de alertar e auxiliar no desenvolvimento financeiro saúdavel do usuário.
 
 ---
 
@@ -29,7 +29,7 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 ### Como os dados são carregados?
 > Descreva como seu agente acessa a base de conhecimento.
 
-[ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
+Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt
 
 ### Como os dados são usados no prompt?
 > Os dados vão no system prompt? São consultados dinamicamente?
