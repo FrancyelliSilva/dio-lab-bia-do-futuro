@@ -21,6 +21,7 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 - O nome do arquivo '/data/perfil_investidor.json' mudaram para '/data/perfil_consumidor', e os seus dados também foram alterados para serem utilizados no desenvolvimento do agente com a função de alertar sobre consumos excessivos.
 - Os dados do arquivo '/data/historico_atendimento' foram alterados para acompanhar o treinamento do agente com a função de alertar e auxiliar no desenvolvimento financeiro saúdavel do usuário.
+- Arquivo '/data/produtos_financeiros' foi excluído, não necessário para o agente que será desenvolvido.
 
 ---
 
